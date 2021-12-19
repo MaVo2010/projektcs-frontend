@@ -1,3 +1,5 @@
+[![CI](https://github.com/MaVo2010/projektcs-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/MaVo2010/projektcs-frontend/actions/workflows/ci.yml)
+
 # projektcs-frontend
 
 ## Project setup
