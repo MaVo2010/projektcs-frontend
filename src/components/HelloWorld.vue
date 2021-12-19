@@ -2,12 +2,11 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
   </div>
-  <div class="row">
-    <div class="col">
-      <input type="text" class="form-control" placeholder="First name" aria-label="First name">
-    </div>
-    <div class="col">
-      <input type="text" class="form-control" placeholder="Last name" aria-label="Last name">
+  <div class="d-flex justify-content-center">
+    <div class="p-2">
+      <input type="text" class="form-control" placeholder="username" aria-label="First name">
+      <input type="text" class="form-control" placeholder="password" aria-label="Last name">
+      <button class="btn btn-primary" type="submit">Submit</button>
     </div>
   </div>
 </template>
